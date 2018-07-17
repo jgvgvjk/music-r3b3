@@ -268,7 +268,7 @@ client.on("message", message => {
      🕋اوامر عامة 🕋
 اذكار
 *support | اذا لقيت اي غلط ادخل السيرفر لحتى نصلحو 
-https://discord.gg/BrjcvCV
+https://discord.gg/TZ3dcyC
 جاري اضافة بعض الاشياء
 ● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ● 
         **اوامر تشغيل القران**  
@@ -289,12 +289,12 @@ https://discord.gg/BrjcvCV
 
 
 client.on('guildCreate', guild => {
-  client.channels.get("466254033556996110").send(`**Woops new server ✅
+  client.channels.get("468911137375911949").send(`**Woops new server ✅
 Server name: __${guild.name}__
 Server owner: __${guild.owner}__**`)
 });
 client.on("guildDelete", guild => {
- client.channels.get("466254033556996110").send(`**Rmoved From server :x:
+ client.channels.get("468911137375911949").send(`**Rmoved From server :x:
 Server name: __${guild.name}__
 Server owner: __${guild.owner}__**`)
 });
@@ -402,7 +402,7 @@ client.on('message', message => {
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#9B59B6")
-  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/BrjcvCV**")
+  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/TZ3dcyC**")
      
      
   message.channel.sendEmbed(embed);
