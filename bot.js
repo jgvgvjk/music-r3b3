@@ -281,7 +281,7 @@ https://discord.gg/TZ3dcyC
 :mosque: *quran 7 | القرآن الكريم كاملا بصوت الشيخ بندر بليلة
 :mosque: *stop |  لـ أيقاف تشغيل البوت 
 ● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ● 
-@everyone  /   @here `)
+@- SB |LEGEND_YT#9736  `)
  }
  
        
